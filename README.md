@@ -1,6 +1,6 @@
 # Detect gate for drone navigation with python
 A gate detection algorithm based on gate color for drone race.
-
+data came from Fira cup.
 # How it works
 The algorithm is simple so its able to perform real time rectangle gate detection.
 
