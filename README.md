@@ -1,5 +1,8 @@
 # Detect gate for drone navigation with python
+A gate detection algorithm based on gate color for drone race.
 
+# How it works
+The algorithm is simple so its able to perform real time rectangle gate detection.
 
 to find what is our gate color range, convert our RGB image to HSV and with HSV feature, HSV Trackbar, find gate color range.
 
