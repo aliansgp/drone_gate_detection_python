@@ -1,4 +1,5 @@
-# Drone Gate Detection Python
+# Detect gate for drone navigation with python
+
 
 to find what is our gate color range, convert our RGB image to HSV and with HSV feature, HSV Trackbar, find gate color range.
 
